@@ -9,7 +9,7 @@ print(greeting + " " + name)
 print(name)
 
 age = 23
-print(age)
+print(age + greeting)
 
 print(type(age))
 print(type(greeting))
