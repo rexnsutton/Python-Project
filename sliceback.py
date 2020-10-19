@@ -8,3 +8,8 @@ print(backwardsEdcba)
 
 backwardsLastEight = letters[:-9:-1]
 print(backwardsLastEight)
+
+print(letters[-4:])
+print(letters[-1:])
+print(letters[:1])
+print(letters[0])
