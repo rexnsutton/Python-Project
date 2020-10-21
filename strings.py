@@ -9,7 +9,9 @@ print(greeting + " " + name)
 print(name)
 
 age = 23
-print(age + greeting)
 
+print(name + f"is {age} years old")
 print(type(age))
 print(type(greeting))
+pi = 22 / 7
+print(f"Pi is approximately {pi:12.50f}")
